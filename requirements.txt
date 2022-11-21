@@ -1,0 +1,11 @@
+Jupyter Notebook 
+Numpy
+Pandas
+Seaborn
+Matplotlib 
+Scikit-learn
+xgboost 
+scipy
+joblib
+opencv-python
+Image
